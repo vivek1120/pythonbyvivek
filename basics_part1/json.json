@@ -1,0 +1,11 @@
+{
+    "name": "vivek",
+    "name2": "rajkumar",
+    "agevivek": 21,
+    "agerajkumar": 23,
+    "studying_colleg": false,
+    "marks": [90, 95, 45, 30],
+    "phone_numbers": null
+  }
+
+  json_obj =  '{ "Name":"David", "Class":"I", "Age":6 }'
